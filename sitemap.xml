@@ -12,12 +12,32 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/lcbo-smoking-loon-chardonnay/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/lcbo-scottimano-barbaresco-cotta-docg-2015/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/lcbo-toro-bravo-tempranillo-merlot-do-valencia/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/
         </loc>
     </url>
     <url>
         <loc>
             http://localhost:8000/sample-page/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/main-content/
         </loc>
     </url>
     <url>
